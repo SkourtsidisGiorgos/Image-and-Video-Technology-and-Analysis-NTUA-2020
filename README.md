@@ -1,5 +1,5 @@
 # Image-and-Video-Technology-and-Analysis-NTUA-2020
-Assignments for the 2019-2020 NTUA classs "Image and Video Technology and Analysis".The utterances of exercises are given in .ipynb format in the folders.
+Assignments for the 2019-2020 NTUA classs "Image and Video Technology and Analysis".The description of the exercises are given in .ipynb format in the folders.
 
 # 1st Assignment
 The goal of this exercise is to apply noise reduction and detection techniques
